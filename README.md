@@ -1,5 +1,7 @@
 # RFM Analysis and Customer Clustering Project
 
+![](https://github.com/Shaikh-areeb/RFM_Analysis_And_Customer_Segmentation-Clustering/blob/main/insights%20images/RFM.png)
+
 This project focuses on using **RFM (Recency, Frequency, Monetary)** analysis and **K-Means Clustering** to segment customers based on their purchasing behavior. 
 The goal is to derive actionable insights for improving marketing strategies and enhancing customer retention.
 
