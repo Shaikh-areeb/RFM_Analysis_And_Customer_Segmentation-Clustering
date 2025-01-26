@@ -117,7 +117,7 @@ By analyzing RFM metrics, businesses can better understand their customer base a
 
 ![image]()
 
-![image]()
+![image](https://github.com/Shaikh-areeb/RFM_Analysis_And_Customer_Segmentation-Clustering/blob/main/insights%20images/Screenshot%202025-01-26%20230618.png)
 
 ---
 
