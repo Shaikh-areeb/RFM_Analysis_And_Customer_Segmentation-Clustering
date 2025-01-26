@@ -5,9 +5,6 @@ The goal is to derive actionable insights for improving marketing strategies and
 
 ---
 
-
----
-
 ## 📌 Project Overview
 This project aims to:
 - Segment customers based on their purchasing behavior.
