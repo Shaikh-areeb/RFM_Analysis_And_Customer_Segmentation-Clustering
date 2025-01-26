@@ -109,3 +109,19 @@ By analyzing RFM metrics, businesses can better understand their customer base a
    - Strategy: Boost purchase frequency with targeted promotions.
    - Focus: Product recommendations and discounts.
 
+---
+
+## RFM Insights Visuals
+
+![image]()
+
+![image]()
+
+![image]()
+
+---
+
+## Cluster Insights Visuals
+
+![image]()
+
